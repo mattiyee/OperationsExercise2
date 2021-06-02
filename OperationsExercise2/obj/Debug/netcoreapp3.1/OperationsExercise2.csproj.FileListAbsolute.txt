@@ -1,0 +1,13 @@
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\bin\Debug\netcoreapp3.1\OperationsExercise2.exe
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\bin\Debug\netcoreapp3.1\OperationsExercise2.deps.json
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\bin\Debug\netcoreapp3.1\OperationsExercise2.runtimeconfig.json
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\bin\Debug\netcoreapp3.1\OperationsExercise2.runtimeconfig.dev.json
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\bin\Debug\netcoreapp3.1\OperationsExercise2.dll
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\bin\Debug\netcoreapp3.1\OperationsExercise2.pdb
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\obj\Debug\netcoreapp3.1\OperationsExercise2.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\obj\Debug\netcoreapp3.1\OperationsExercise2.AssemblyInfoInputs.cache
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\obj\Debug\netcoreapp3.1\OperationsExercise2.AssemblyInfo.cs
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\obj\Debug\netcoreapp3.1\OperationsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\obj\Debug\netcoreapp3.1\OperationsExercise2.dll
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\obj\Debug\netcoreapp3.1\OperationsExercise2.pdb
+C:\Users\matti\Desktop\repos\OperationsExercise2\OperationsExercise2\obj\Debug\netcoreapp3.1\OperationsExercise2.genruntimeconfig.cache
